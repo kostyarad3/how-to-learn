@@ -46,7 +46,7 @@
 .header__subtitle {
   margin: 0;
   padding: 0;
-  width: 390px;
+  max-width: 390px;
   position: absolute;
   bottom: 30px;
   left: 64px;
